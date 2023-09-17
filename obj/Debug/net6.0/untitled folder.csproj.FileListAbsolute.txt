@@ -1,0 +1,15 @@
+/Users/anny/untitled folder/bin/Debug/net6.0/untitled folder
+/Users/anny/untitled folder/bin/Debug/net6.0/untitled folder.deps.json
+/Users/anny/untitled folder/bin/Debug/net6.0/untitled folder.runtimeconfig.json
+/Users/anny/untitled folder/bin/Debug/net6.0/untitled folder.dll
+/Users/anny/untitled folder/bin/Debug/net6.0/untitled folder.pdb
+/Users/anny/untitled folder/obj/Debug/net6.0/untitled folder.csproj.AssemblyReference.cache
+/Users/anny/untitled folder/obj/Debug/net6.0/untitled folder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anny/untitled folder/obj/Debug/net6.0/untitled folder.AssemblyInfoInputs.cache
+/Users/anny/untitled folder/obj/Debug/net6.0/untitled folder.AssemblyInfo.cs
+/Users/anny/untitled folder/obj/Debug/net6.0/untitled folder.csproj.CoreCompileInputs.cache
+/Users/anny/untitled folder/obj/Debug/net6.0/untitled folder.dll
+/Users/anny/untitled folder/obj/Debug/net6.0/refint/untitled folder.dll
+/Users/anny/untitled folder/obj/Debug/net6.0/untitled folder.pdb
+/Users/anny/untitled folder/obj/Debug/net6.0/untitled folder.genruntimeconfig.cache
+/Users/anny/untitled folder/obj/Debug/net6.0/ref/untitled folder.dll
